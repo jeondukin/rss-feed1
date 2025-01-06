@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>네이버 뉴스 - 사랑밭 관련 기사</title>
+        <link>https://news.naver.com</link>
+        <description>네이버 뉴스에서 사랑밭 관련 기사 모음</description>
+        <item>
+            <title>사랑밭, 연말 나눔 캠페인 개최</title>
+            <link>https://news.naver.com/article/12345</link>
+            <description>사랑밭이 연말에 진행한 나눔 캠페인 관련 기사.</description>
+            <pubDate>Sat, 06 Jan 2025 10:00:00 +0900</pubDate>
+        </item>
+        <item>
+            <title>사랑밭 봉사활동, 지역 사회에 기여</title>
+            <link>https://news.naver.com/article/67890</link>
+            <description>사랑밭 봉사활동이 지역 사회에 미친 영향에 대한 기사.</description>
+            <pubDate>Fri, 05 Jan 2025 15:30:00 +0900</pubDate>
+        </item>
+    </channel>
+</rss>
